@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SkikaiteJagelienePercentCounter</string>
+    <string name="name">Greta Skikaitė-Jagėlienė</string>
+    <string name="title">Percent counter</string>
+    <string name="amount">Enter amount</string>
+    <string name="tip">Tip</string>
+    <string name="seekbarvalue">0%</string>
+    <string name="result">Result</string>
+    <string name="total">Total</string>
+</resources>

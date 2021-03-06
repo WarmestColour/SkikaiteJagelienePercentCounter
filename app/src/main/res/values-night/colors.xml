@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="yellow">#FFEB3B</color>
+    <color name="red">#FF5252</color>
+    <color name="blue">#448AFF</color>
+    <color name="pink">#F8939F</color>
+    <color name="magenta">#E38FF1</color>
+    <color name="brown">#B48A79</color>
+    <color name="wine">#94314D</color>
+    <color name="sand">#E0C6A7</color>
+    <color name="darkOcean">#374577</color>
+    <color name="pastelBlue">#4DC8FF</color>
+    <color name="lightTeal">#7FE9D0</color>
+</resources>
